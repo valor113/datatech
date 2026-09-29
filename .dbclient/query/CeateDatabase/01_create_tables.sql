@@ -1,3 +1,4 @@
+-- Active: 1790660371362@@127.0.0.1@5432@superstore
 CREATE DATABASE superstore;
 
 Create TABLE customers (

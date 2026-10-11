@@ -1,4 +1,4 @@
--- Active: 1790660371362@@127.0.0.1@5432@datacraftinglab_db
+-- Active: 1790427590514@@127.0.0.1@5432@datacraftinglab_db
 CREATE DATABASE datacraftinglab_db;
 
 Create TABLE flourmills_sales (

@@ -1,0 +1,11 @@
+Validation_Rule,Error_Count
+invalid_order_id_format,0
+duplicate_order_id,22
+invalid_region,42
+invalid_quantity,24
+invalid_sales_amount,22
+invalid_discount,29
+invalid_order_date,17
+invalid_delivery_date,10
+date_logic_error,15
+invalid_phone_number,34
